@@ -1,18 +1,42 @@
-# ¡Hola! Soy Jose Ramon 👋
+## 👋 Hola, soy Ramon
 
-### Sobre mí:
-- 🧑‍💻 Estudiando **Desarrollo Fullstack**.
-- 🚀 Explorando el mundo del **desarrollo web** y **Python**.
-- 🎯 Buscando siempre mejorar mis habilidades de **backend** y **frontend**.
+### 🚀 Sobre mí
+Soy un desarrollador **Full Stack en formación**, apasionado por crear soluciones innovadoras y funcionales. Actualmente, estoy enfocado en mejorar mis habilidades en desarrollo web y construcción de proyectos prácticos que me permitan crecer profesionalmente.
 
-### Tecnologías y herramientas:
-- Lenguajes: ![Python](https://img.shields.io/badge/-Python-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![HTML5](https://img.shields.io/badge/-HTML5-red) ![CSS3](https://img.shields.io/badge/-CSS3-blue)
-- Herramientas: ![Git](https://img.shields.io/badge/-Git-orange)
+---
 
-### Proyectos destacados:
-- **[Lector de Artículos](https://github.com/jrramoncp/Lector_Articulos)**: Un lector de artículos que devuelvo un archivo .mp3 con el articulo en audio.
-- **[Etch A Sketch](https://github.com/jrramoncp/etch-a-skech/settings)**: Proyecto que recrea el clásico Etch A Sketch en la web utilizando HTML, CSS y JavaScript.
+### 💻 Habilidades
+- **Lenguajes:** Python, HTML, CSS, JavaScript  
+- **Herramientas:** Git, VSCode, MySQL  
+- **Metodologías:** Enfoque en buenas prácticas y aprendizaje continuo
 
-### Contacto:
-- 📧 Email: [joseramoncaravaca@gmail.com](mailto:joseramoncaravaca@gmail.com)
-- 💼 GitHub: [jrramoncp](https://github.com/jrramoncp)
+---
+
+### 📂 Proyectos destacados
+- **[Etch A Sketch](https://github.com/jrramoncp/etch-a-skech):** Una aplicación interactiva para dibujar como en un tablero de bocetos.
+- **Rastreador de Hábitos:[https://github.com/jrramoncp/HabitTracker]** Proyecto en desarrollo para ayudar a organizar y mejorar hábitos diarios, con historial y funcionalidad de rachas.
+
+---
+
+### 🌱 En aprendizaje
+- Desarrollo Full Stack en la Academia ConquerBlocks
+
+---
+
+### 🎯 Objetivos
+- Construir aplicaciones completas, desde el backend hasta el frontend.
+- Contribuir a proyectos de código abierto.
+- Alcanzar un nivel profesional en desarrollo web.
+
+---
+
+### 📫 Conecta conmigo
+- **Correo:** [joseramoncaravaca@gmail.com](mailto:joseramoncaravaca@gmail.com)
+- **GitHub:** [jrramoncp](https://github.com/jrramoncp)
+
+---
+
+### 🚧 Estado actual
+En constante evolución, trabajando en proyectos prácticos y ampliando conocimientos día a día.
+
+#### ⭐ Si encuentras algo interesante en mis proyectos, ¡no dudes en darle una estrella!
