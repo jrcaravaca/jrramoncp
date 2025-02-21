@@ -14,7 +14,7 @@ Soy un desarrollador **Full Stack en formación**, apasionado por crear solucion
 
 ### 📂 Proyectos destacados
 - **[Etch A Sketch](https://github.com/jrramoncp/etch-a-skech):** Una aplicación interactiva para dibujar como en un tablero de bocetos.
-- **Rastreador de Hábitos:[https://github.com/jrramoncp/HabitTracker]** Proyecto en desarrollo para ayudar a organizar y mejorar hábitos diarios, con historial y funcionalidad de rachas.
+- **[Rastreador de Hábitos](https://github.com/jrramoncp/HabitTracker)** Proyecto en desarrollo para ayudar a organizar y mejorar hábitos diarios, con historial.
 
 ---
 
