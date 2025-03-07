@@ -15,8 +15,6 @@ Soy un desarrollador **Full Stack en formación**, apasionado por crear solucion
 ### 📂 Proyectos destacados
 - **[Etch A Sketch](https://github.com/jrramoncp/etch-a-skech):** Una aplicación interactiva para dibujar como en un tablero de bocetos.
 - **[Rastreador de Hábitos](https://github.com/jrramoncp/HabitTracker)** Proyecto en desarrollo para ayudar a organizar y mejorar hábitos diarios, con historial.
-- **[Grocery Store Header](https://github.com/jrramoncp/grocery_store_header)** Header responsive para un sitio web de una tienda de comestibles. Hecho con SASS.
-
 ---
 
 ### 🌱 En aprendizaje
