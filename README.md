@@ -7,7 +7,7 @@ Soy un desarrollador **Full Stack en formación**, apasionado por crear solucion
 
 ### 💻 Habilidades
 - **Lenguajes:** Python, HTML, CSS, JavaScript  
-- **Herramientas:** Git, VSCode, MySQL  
+- **Herramientas:** Git, VSCode, MySQL, Sass, Tailwind  
 - **Metodologías:** Enfoque en buenas prácticas y aprendizaje continuo
 
 ---
