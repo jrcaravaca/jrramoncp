@@ -1,7 +1,7 @@
 ## 👋 Hola, soy Ramon
 
 ### 🚀 Sobre mí
-Soy un desarrollador **Full Stack en formación**, apasionado por crear soluciones innovadoras y funcionales. Actualmente, estoy enfocado en mejorar mis habilidades en desarrollo web y construcción de proyectos prácticos que me permitan crecer profesionalmente.
+Soy un desarrollador Full Stack **en formación**, apasionado por crear soluciones innovadoras y funcionales. Actualmente, estoy enfocado en mejorar mis habilidades en desarrollo web y construcción de proyectos prácticos que me permitan crecer profesionalmente.
 
 ---
 
@@ -13,8 +13,10 @@ Soy un desarrollador **Full Stack en formación**, apasionado por crear solucion
 ---
 
 ### 📂 Proyectos destacados
-- **[Etch A Sketch](https://github.com/jrramoncp/etch-a-skech):** Una aplicación interactiva para dibujar como en un tablero de bocetos.
-- **[Rastreador de Hábitos](https://github.com/jrramoncp/HabitTracker)** Proyecto en desarrollo para ayudar a organizar y mejorar hábitos diarios, con historial.
+- **[Rastreador de Hábitos](https://github.com/jrramoncp/HabitTracker)** Rastreador de hábitos hecho en Python
+- **[MineSweeper](https://github.com/jrcaravaca/MineSweeper)** Clásico juego de buscaminas con diferentes tamaños y niveles de dificultad
+- **[CatGallery](https://github.com/jrcaravaca/CatGallery)** Galería de imagenes de gatos basada en TheCatApi
+- **[SudokuSolver](https://github.com/jrcaravaca/sudoku-solver)** Resolutor de sudokus usando backtracking
 ---
 
 ### 🌱 En aprendizaje
